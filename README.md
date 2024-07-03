@@ -26,5 +26,5 @@ please contact me through Telegram
 
 GIT
 To download the very latest source off the GIT server do this:
-git clone https://github.com/Danstrme/ArduinoESP-local-database-connection.git
-(you"ll get a directory named ArduinoESP-local-database-connection created, filled with the source code
+git clone https://github.com/Danstrme/ArduinoESP-firebase-Realtime-database-connection.git
+(you"ll get a directory named ArduinoESP-firebase-Realtime-database-connection created, filled with the source code
